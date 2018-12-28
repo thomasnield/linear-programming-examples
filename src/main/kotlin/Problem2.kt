@@ -6,8 +6,8 @@ import org.ojalgo.okalgo.vectorOf
 
 /**
  * Maximize P = 40x + 30y
- * x + y <= 240
- * 2x + y <= 320
+ * x + y + s1 <= 240
+ * 2x + y + s2 <= 320
  *
  * x >= 0, y >= 0
  */
